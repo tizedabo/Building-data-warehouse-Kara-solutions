@@ -1,0 +1,21 @@
+#pip install
+pandas
+numpy 
+matplotlib
+plotly
+dvc 
+scipy
+seaborn
+scikit-learn
+statsmodels
+transformers
+telethon
+csv
+os
+dotenv
+pandas
+re
+emoji
+
+
+
